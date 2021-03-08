@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This project is deprecated in favor of [build recipes](https://github.com/matthewfeickert/ROOT-build-recipes).
+
 # installROOTsource
 Turnkey script to install ROOT from the current source pulled down from git
 
